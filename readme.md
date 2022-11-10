@@ -4,6 +4,7 @@
 ### Git init
 
 Este comando se usa para iniciar un proyecto en el control de versiones git
+![imagen](https://user-images.githubusercontent.com/114684379/201156943-e1ecc594-5cae-49d6-a00d-0c2e0dee0154.png)
 
 ## Segundo paso
 ### Git status
