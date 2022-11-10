@@ -15,6 +15,7 @@ En este paso lo que hacemos es comprobar el estado en el que se encuentra nuestr
 ## Tercer paso
 ### Git add
 Ahora lo que hacemos es añadir los archivos al area de trabajo.
+![imagen](https://user-images.githubusercontent.com/114684379/201160664-e442146b-3b67-4ceb-976e-66d1e2a3cf5d.png)
 
 ## Cuarto paso 
 ### Git commit
