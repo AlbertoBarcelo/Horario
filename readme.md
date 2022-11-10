@@ -20,6 +20,7 @@ Ahora lo que hacemos es añadir los archivos al area de trabajo.
 ## Cuarto paso 
 ### Git commit
 Con este paso lo que conseguimos es registrar los cambios que le podamos estar haciendo a nuestro archivo
+
 ![imagen](https://user-images.githubusercontent.com/114684379/201160853-c41937ac-6bfc-4114-a6c6-540dd6c1f151.png)
 
 ## Quinto paso 
