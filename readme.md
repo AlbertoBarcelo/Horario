@@ -10,5 +10,22 @@ Este comando se usa para iniciar un proyecto en el control de versiones git
 ### Git status
 
 En este paso lo que hacemos es comprobar el estado en el que se encuentra nuestro repositorio
+![imagen](https://user-images.githubusercontent.com/114684379/201157492-721479ca-dc12-4d4f-bbc2-89f809c507a8.png)
+
+## Tercer paso
+### Git add
+Ahora lo que hacemos es añadir los archivos al area de trabajo.
+
+## Cuarto paso 
+### Git commit
+Con este paso lo que conseguimos es registrar los cambios que le podamos estar haciendo a nuestro archivo
+
+## Quinto paso 
+###
+
+
+
+
+
 ![imagen](https://user-images.githubusercontent.com/114684379/200780333-cd0922b2-1c24-4430-aad8-3aac8ec20d28.png)
 
