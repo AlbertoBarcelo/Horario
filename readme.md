@@ -47,13 +47,3 @@ En este paso lo que hacemos es traer todos los cambion de nuestro main lo que no
    git checkout nombre-de-archivo
 
 2. Para volver a una version concreta: git checkout hash-de-la-revisión -- nombre-de-archivo nombre-de-archivo
-
-
-
-
-
-
-
-
-
-
