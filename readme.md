@@ -42,7 +42,9 @@ En este paso lo que hacemos es traer todos los cambion de nuestro main lo que no
 ## Septimo paso 
 ### Tenemos varios comandos por si tenemos la necesidad de volver a aversiones anteriores.
 
-1. git reset HEAD nombre-de-archivo     git checkout nombre-de-archivo
+1. git reset HEAD nombre-de-archivo     
+
+  git checkout nombre-de-archivo
 
 2. Para volver a una version concreta: git checkout hash-de-la-revisión -- nombre-de-archivo nombre-de-archivo
 
