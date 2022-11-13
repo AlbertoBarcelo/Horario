@@ -37,7 +37,7 @@ Y por ultimo lo subimos a nuestro repositorio web.
 ### Git pull origin main
 En este paso lo que hacemos es traer todos los cambion de nuestro main lo que nos permite que si trabajamos en equipo y alguin nos aporta una mejora a nuestro codigo podremos añadirlo a nuestro codigo de forma muy sencilla.
 
-![imagen](https://user-images.githubusercontent.com/114684379/201512760-0948b079-0a35-4e2f-b978-34f3f76c07c2.png)
+![imagen](https://user-images.githubusercontent.com/114684379/201513454-c3bed946-706e-4479-9d36-2fcf9d089691.png)
 
 ## Septimo paso 
 ### Tenemos varios comandos por si tenemos la necesidad de volver a aversiones anteriores.
