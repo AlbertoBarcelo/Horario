@@ -33,6 +33,13 @@ Y por ultimo lo subimos a nuestro repositorio web.
 
 ![imagen](https://user-images.githubusercontent.com/114684379/201512551-9bac1398-01db-4315-8ba0-c3f17c6aefff.png)
 
+## Sexto paso 
+### Git pull origin main
+En este paso lo que hacemos es traer todos los cambion de nuestro main lo que nos permite que si trabajamos en equipo y alguin nos aporta una mejora a nuestro codigo podremos añadirlo a nuestro codigo de forma muy sencilla.
+
+![imagen](https://user-images.githubusercontent.com/114684379/201512760-0948b079-0a35-4e2f-b978-34f3f76c07c2.png)
+
+
 
 
 
