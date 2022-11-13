@@ -24,7 +24,14 @@ Con este paso lo que conseguimos es registrar los cambios que le podamos estar h
 ![imagen](https://user-images.githubusercontent.com/114684379/201160853-c41937ac-6bfc-4114-a6c6-540dd6c1f151.png)
 
 ## Quinto paso 
-###
+### Subir archivos a nuestro repositorio en github
+Lo primero que hacemos es seleccionar la ruta en la que tenemos nuestro repositorio.
+
+El segundo paso es seleccionar la raiz en la que lo vamos a subir.
+
+Y por ultimo lo subimos a nuestro repositorio web.
+![imagen](https://user-images.githubusercontent.com/114684379/201512551-9bac1398-01db-4315-8ba0-c3f17c6aefff.png)
+
 
 
 
