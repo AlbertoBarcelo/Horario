@@ -30,6 +30,7 @@ Lo primero que hacemos es seleccionar la ruta en la que tenemos nuestro reposito
 El segundo paso es seleccionar la raiz en la que lo vamos a subir.
 
 Y por ultimo lo subimos a nuestro repositorio web.
+
 ![imagen](https://user-images.githubusercontent.com/114684379/201512551-9bac1398-01db-4315-8ba0-c3f17c6aefff.png)
 
 
@@ -37,5 +38,5 @@ Y por ultimo lo subimos a nuestro repositorio web.
 
 
 
-![imagen](https://user-images.githubusercontent.com/114684379/200780333-cd0922b2-1c24-4430-aad8-3aac8ec20d28.png)
+
 
